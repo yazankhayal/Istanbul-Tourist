@@ -91,14 +91,6 @@
     </div>
 </div>
 
-<!-- whatsapp_fixed -->
-<div id="whatsapp_fixed">
-    <a href="https://api.whatsapp.com/send?1=pt_BR&phone=905383811159" target="_blank">
-        <i class="fa fa-question"></i>
-    </a>
-    <div class="light"></div>
-</div>
-
 @includeIf('dashboard.layouts.js')]
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
 @yield('js')
